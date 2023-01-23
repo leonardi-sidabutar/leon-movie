@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leon-movie/static/css/main.b2cef2f9.css",
+    "main.js": "/leon-movie/static/js/main.fad4168d.js",
+    "static/js/787.8a69fbf6.chunk.js": "/leon-movie/static/js/787.8a69fbf6.chunk.js",
+    "index.html": "/leon-movie/index.html",
+    "main.b2cef2f9.css.map": "/leon-movie/static/css/main.b2cef2f9.css.map",
+    "main.fad4168d.js.map": "/leon-movie/static/js/main.fad4168d.js.map",
+    "787.8a69fbf6.chunk.js.map": "/leon-movie/static/js/787.8a69fbf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2cef2f9.css",
+    "static/js/main.fad4168d.js"
+  ]
+}
